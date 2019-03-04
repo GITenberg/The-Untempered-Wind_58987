@@ -1,11 +1,16 @@
 _repo: The-Untempered-Wind_58987
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58987-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wood, Joanna E.
     gutenberg_agent_id: '50192'
     url: http://www.gutenberg.org/2009/agents/50192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58987#The-Untempered-Wind
 gutenberg_issued: '2019-02-28'
 gutenberg_type: Text
 identifiers:
